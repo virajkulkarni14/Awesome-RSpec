@@ -20,6 +20,8 @@ A collection of awesome resources for RSpec
 
 Blog posts and articles about using RSpec with other tools.
 
+- [RSpec.info - Official Documentation for RSpec](http://rspec.info/documentation)
+
 ## Tools, Libraries & Frameworks
 
 These were built on top of RSpec and provide a BDD ecosystem.
