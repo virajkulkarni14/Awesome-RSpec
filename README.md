@@ -1,6 +1,6 @@
 # Awesome-RSpec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome resources for RSpec
-[<img src="http://rspec.info/images/logo.png" align="right" width="200">](http://rspec.info/)
+[<img src="http://rspec.info/images/logo.png" align="right">](http://rspec.info/)
 
 *Note: this is a relatively new Awesome List. To contribute, please ensure that you follow the [contribution guidelines](#contributing).*
 
